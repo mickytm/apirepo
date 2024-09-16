@@ -1,0 +1,10 @@
+{
+    "race": [
+      { "Id": 1, "Name": "Test Race 1", "Description" : "Some Description", "Location" : "Cochabamba", "Date" : "11-09-2024"  }
+    ],
+    "events": [
+      { "id": 1, "Name": "5K Juvenil", "Description": "Event Description", "Distance" : 5.00, "Units": "KM", "StartTime": "7:00" },
+      { "id": 2, "Name": "5K Mayor", "Description": "Event Description", "Distance" : 5.00, "Units": "KM", "StartTime": "7:00" },
+      { "id": 3, "Name": "5K Master", "Description": "Event Description", "Distance" : 5.00, "Units": "KM", "StartTime": "7:00" }
+    ]
+  }
